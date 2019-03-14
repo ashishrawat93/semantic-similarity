@@ -2,9 +2,9 @@
 ## NOTE
 
 The submission contains the following files:
-	- README
-	- FinalProject Report
-	- Zip folder containing the code files
+- README
+- FinalProject Report
+- Zip folder containing the code files
 
 We have not included the dataset with this submission, since it was a very large folder, and we were running into problems zipping the data.
 
@@ -25,19 +25,19 @@ that data is sensitive to the product we are trying to create.
 
 ## DIRECTORY STRUCTURE
 
-	PROJECT_2470
-		- README
-		- REPORT.PDF
-		- final_proj.zip
-			- data/
-				- snli_1.0/
-				- glove.840B.300d.txt
-				- word-vectors.npy
-				- data.jsonl
-			- project/
-				- DenseNet.py
-				- train.py
-				- my_model.py
-				- helper/
-					-data_processing.py
+PROJECT_2470
+- README
+- REPORT.PDF
+- final_proj.zip
+..- data/
+...- snli_1.0/
+...- glove.840B.300d.txt
+...- word-vectors.npy
+...- data.jsonl
+..- project/
+...- DenseNet.py
+...- train.py
+...- my_model.py
+...- helper/
+....-data_processing.py
 			
