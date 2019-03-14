@@ -23,7 +23,7 @@ that data is sensitive to the product we are trying to create.
 
 
 ## DIRECTORY STRUCTURE
-
+Markup:
 PROJECT_2470
 - README
 - REPORT.PDF
