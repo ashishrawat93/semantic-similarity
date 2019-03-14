@@ -26,7 +26,7 @@ that data is sensitive to the product we are trying to create.
 Markup:
 PROJECT_2470
 - README
-- REPORT.PDF
+- cs-2470-report.PDF
 - final_proj.zip
 	- data/
 		- snli_1.0/
