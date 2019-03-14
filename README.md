@@ -10,8 +10,7 @@ We have not included the dataset with this submission, since it was a very large
 
 ## DATASET
 
-However, the Quora Question Pairs dataset can be found using the following [link](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs):
-https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
+However, the Quora Question Pairs dataset can be found using the following [link](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs).
 
 Also, we have also not included the Student Questions dataset that we generated, since 
 that data is sensitive to the product we are trying to create.
