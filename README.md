@@ -28,15 +28,15 @@ PROJECT_2470
 - README
 - REPORT.PDF
 - final_proj.zip
-..- data/
-...- snli_1.0/
-...- glove.840B.300d.txt
-...- word-vectors.npy
-...- data.jsonl
-..- project/
-...- DenseNet.py
-...- train.py
-...- my_model.py
-...- helper/
-....-data_processing.py
+	- data/
+		- snli_1.0/
+		- glove.840B.300d.txt
+		- word-vectors.npy
+		- data.jsonl
+	- project/
+		- DenseNet.py
+		- train.py
+		- my_model.py
+		- helper/
+			-data_processing.py
 			
